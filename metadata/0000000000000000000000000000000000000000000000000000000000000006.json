@@ -1,0 +1,12 @@
+{
+  "name": "Gold - Nugget (Alaska)",
+  "description": "Mineralien Commodity Token of GOLD",
+  "decimals": 10,
+  "image": "https://blue-odd-marsupial-836.mypinata.cloud/ipfs/Qmdy8ZLdPUsC72B6QA4ZhiQPYQtdtEppjFtWfTg43JzguD/gold.jpeg",
+  "properties": {
+    "weight": "5.5 g",
+    "purity": "95% (estimated)",
+    "origin": "Nome Mining District, Alaska",
+    "discoveryDate": "2023-08-22"
+  }
+}

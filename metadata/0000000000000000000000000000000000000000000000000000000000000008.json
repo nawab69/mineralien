@@ -1,0 +1,13 @@
+{
+  "name": "Silver - Canadian Maple Leaf",
+  "description": "Mineralien Commodity Token of SILVER",
+  "decimals": 10,
+  "image": "https://blue-odd-marsupial-836.mypinata.cloud/ipfs/Qmdy8ZLdPUsC72B6QA4ZhiQPYQtdtEppjFtWfTg43JzguD/silver.jpeg",
+  "properties": {
+    "weight": "1 oz",
+    "purity": "99.99%",
+    "origin": "Canada",
+    "certification": "Royal Canadian Mint Guaranteed",
+    "mintageYear": "2023"
+  }
+}

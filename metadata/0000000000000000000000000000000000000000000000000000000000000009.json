@@ -1,0 +1,13 @@
+{
+  "name": "Silver - Industrial Grade",
+  "description": "Mineralien Commodity Token of SILVER",
+  "decimals": 10,
+  "image": "https://blue-odd-marsupial-836.mypinata.cloud/ipfs/Qmdy8ZLdPUsC72B6QA4ZhiQPYQtdtEppjFtWfTg43JzguD/silver.jpeg",
+  "properties": {
+    "weight": "10 kg",
+    "purity": "98%",
+    "origin": "Chile",
+    "processingDetails": "Electrolytic Refining",
+    "use": "Electronics Manufacturing"
+  }
+}

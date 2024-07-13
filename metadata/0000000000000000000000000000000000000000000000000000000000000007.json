@@ -1,0 +1,13 @@
+{
+  "name": "Silver - Premium Bar",
+  "description": "Mineralien Commodity Token of SILVER",
+  "decimals": 10,
+  "image": "https://blue-odd-marsupial-836.mypinata.cloud/ipfs/Qmdy8ZLdPUsC72B6QA4ZhiQPYQtdtEppjFtWfTg43JzguD/silver.jpeg",
+  "properties": {
+    "weight": "100 oz",
+    "purity": "99.9%",
+    "origin": "Mexico",
+    "certification": "COMEX Good Delivery",
+    "refiningDate": "2023-12-20"
+  }
+}

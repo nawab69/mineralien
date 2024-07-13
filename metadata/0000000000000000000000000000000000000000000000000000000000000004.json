@@ -1,0 +1,13 @@
+{
+  "name": "Gold - Premium Bullion",
+  "description": "Mineralien Commodity Token of GOLD",
+  "decimals": 10,
+  "image": "https://blue-odd-marsupial-836.mypinata.cloud/ipfs/Qmdy8ZLdPUsC72B6QA4ZhiQPYQtdtEppjFtWfTg43JzguD/gold.jpeg",
+  "properties": {
+    "weight": "10 oz",
+    "purity": "99.99%",
+    "origin": "Witwatersrand Basin, South Africa",
+    "certification": "LBMA Good Delivery",
+    "refiningDate": "2024-02-10"
+  }
+}
